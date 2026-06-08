@@ -1,0 +1,6 @@
+{
+  "name": "App Market",
+  "description": "A high-fidelity mobile app store for regular, mod, and subscription apps, complete with an administrator panel for order management and payment verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
